@@ -3,42 +3,42 @@
         "_id": "12345a",
         "category_id": "01",
         "title": "Javascript",
-        "details": "this is a test and that is also a test so that is also another test",
-        "image": "https://www.freepik.com/free-vector/letter-j-s-logo-design-template_28555706.htm#query=js%20logo&position=1&from_view=keyword"
+        "details": "What is JavaScript ? JavaScript is a dynamic computer programming language. It is lightweight and most commonly used as a part of web pages, whose implementations allow client-side script to interact with the user and make dynamic pages. It is an interpreted programming language with object-oriented capabilities.",
+        "image": "https://img.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept-bright-vibrant-violet-isolated-illustration_335657-986.jpg?w=1380&t=st=1666707223~exp=1666707823~hmac=87a1fdfd6cc825e1244ab5090dc88e41a6ff04864f658126f83a4a5ea7cd3906"
     },
     {
         "_id": "12345b",
         "category_id": "02",
-        "title": "Javascript",
-        "details": "this is a test and that is also a test so that is also another test",
-        "image": "https://www.freepik.com/free-vector/letter-j-s-logo-design-template_28555706.htm#query=js%20logo&position=1&from_view=keyword"
+        "title": "Python",
+        "details": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems.",
+        "image": "https://cdn-icons-png.flaticon.com/512/380/380005.png?w=826&t=st=1666707304~exp=1666707904~hmac=bff776d4e800a5c1e7e66846742d4fa031c9630dca8838e027b490b095273456"
     },
     {
         "_id": "12345c",
         "category_id": "03",
-        "title": "Javascript",
-        "details": "this is a test and that is also a test so that is also another test",
-        "image": "https://www.freepik.com/free-vector/letter-j-s-logo-design-template_28555706.htm#query=js%20logo&position=1&from_view=keyword"
+        "title": "C++",
+        "details": "C++ is an object-oriented programming language which gives a clear structure to programs and allows code to be reused, lowering development costs. C++ is portable and can be used to develop applications that can be adapted to multiple platforms. C++ is fun and easy to learn!",
+        "image": "https://t4.ftcdn.net/jpg/03/62/33/65/240_F_362336576_p9B6TtSeEfNPfgNirlMt7xe7Jd09AE5q.jpg"
     },
     {
         "_id": "12345d",
         "category_id": "04",
-        "title": "Javascript",
-        "details": "this is a test and that is also a test so that is also another test",
-        "image": "https://www.freepik.com/free-vector/letter-j-s-logo-design-template_28555706.htm#query=js%20logo&position=1&from_view=keyword"
+        "title": "PHP",
+        "details": "PHP is a server side scripting language that is embedded in HTML. It is used to manage dynamic content, databases, session tracking, even build entire e-commerce sites. It is integrated with a number of popular databases, including MySQL, PostgreSQL, Oracle, Sybase, Informix, and Microsoft SQL Server",
+        "image": "https://cdn-icons-png.flaticon.com/512/919/919830.png?w=826&t=st=1666707370~exp=1666707970~hmac=038bce15b2d73e932a321e847fa0d911b93dcb1f12b219654c8bb7effdd86c4d"
     },
     {
         "_id": "12345e",
         "category_id": "05",
-        "title": "Javascript",
-        "details": "this is a test and that is also a test so that is also another test",
-        "image": "https://www.freepik.com/free-vector/letter-j-s-logo-design-template_28555706.htm#query=js%20logo&position=1&from_view=keyword"
+        "title": "Java",
+        "details": "Java is a widely used object-oriented programming language and software platform that runs on billions of devices, including notebook computers, mobile devices, gaming consoles, medical devices and many others. The rules and syntax of Java are based on the C and C++ languages",
+        "image": "https://cdn-icons-png.flaticon.com/512/311/311357.png?w=826&t=st=1666707479~exp=1666708079~hmac=643914bd0a7fab75835ca52a0c2a89e9dd725f6c7faba8b36b1296ce08f08c74"
     },
     {
         "_id": "12345f",
         "category_id": "06",
-        "title": "Javascript",
-        "details": "this is a test and that is also a test so that is also another test",
-        "image": "https://www.freepik.com/free-vector/letter-j-s-logo-design-template_28555706.htm#query=js%20logo&position=1&from_view=keyword"
+        "title": "C",
+        "details": "What Does C Programming Language (C) Mean? C is a high-level and general-purpose programming language that is ideal for developing firmware or portable applications. Originally intended for writing system software, C was developed at Bell Labs by Dennis Ritchie for the Unix Operating System in the early 1970s.",
+        "image": "https://t4.ftcdn.net/jpg/01/23/79/91/240_F_123799116_Onhj4glsMUYtD8XkA9FJSzAMV7zfiI0w.jpg"
     }
 ]
